@@ -1,0 +1,72 @@
+Algorithm: insertionSort
+Number of comparisons: 8
+Running Time: 0 microseconds
+Sorted Student Elements: 
+zyad
+20198154
+2.2
+sara
+20210037
+2.5
+mohamed
+20203256
+2.7
+ahmed
+20218234
+3.1
+
+
+Algorithm: selectionSort
+Number of comparisons: 0
+Running Time: 0 microseconds
+Sorted Student Elements: 
+zyad
+20198154
+2.2
+sara
+20210037
+2.5
+mohamed
+20203256
+2.7
+ahmed
+20218234
+3.1
+
+
+Algorithm: insertionSort
+Number of comparisons: 8
+Running Time: 0 microseconds
+Sorted Student Elements: 
+zyad
+20198154
+2.2
+sara
+20210037
+2.5
+mohamed
+20203256
+2.7
+ahmed
+20218234
+3.1
+
+
+Algorithm: selectionSort
+Number of comparisons: 0
+Running Time: 0 microseconds
+Sorted Student Elements: 
+zyad
+20198154
+2.2
+sara
+20210037
+2.5
+mohamed
+20203256
+2.7
+ahmed
+20218234
+3.1
+
+
